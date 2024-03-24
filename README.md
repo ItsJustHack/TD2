@@ -1,2 +1,1 @@
-# TD2
-Deuxième TD info
+# info2-init
